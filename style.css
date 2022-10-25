@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    background: burlywood;
+    background: #deb887;
     line-height: 1.5;
 }
 
@@ -24,7 +24,7 @@ section > article > p,h1 {
   z-index: 0;
 }
 .header {
-    background-color: #645b46;
+    background-color: #bb9461;
     color: white;
     display: center, inline-block;
     justify-content: space-between;
